@@ -1,23 +1,23 @@
-Tresk Website
+**Tresk Website**
 
 Official website for Tresk, developed under Analytical Measuring Systems.
 
 This repository contains the source code for the Tresk marketing website, including the landing page, product information pages, and UI components used to present the platform online.
 
-🌐 Live Website
+🌐 **Live Website**
 
 Visit the live website:
 
 https://tresk.ai
 
-🏢 About Tresk
+🏢 **About Tresk**
 
 Tresk is a platform developed by Analytical Measuring Systems (AMS).
 The goal of Tresk is to provide modern digital solutions powered by advanced technologies to help users and businesses work more efficiently.
 
 This repository contains the frontend website used to introduce the product, explain features, and allow users to explore the platform.
 
-🚀 Features
+🚀 **Features**
 
 Modern landing page
 
@@ -31,7 +31,7 @@ Fast static website performance
 
 Optimized for user experience
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 Frontend:
 
@@ -49,7 +49,7 @@ GitHub
 
 VS Code
 
-📂 Project Structure
+📂 **Project Structure**
 ams__website/
 │
 ├── index.html        # Main landing page
@@ -62,7 +62,8 @@ ams__website/
 ├── assets/           # Images, icons, and media
 │
 └── README.md
-⚙️ Installation
+
+⚙️ **Installation**
 
 Clone the repository:
 
@@ -76,7 +77,7 @@ Run locally:
 
 Open index.html in your browser.
 
-💻 Development
+💻 **Development**
 
 To modify the website:
 
@@ -88,7 +89,7 @@ Add JavaScript functionality in the JS folder
 
 Test changes in a browser
 
-📈 Future Improvements
+📈 **Future Improvements**
 
 Possible improvements include:
 
@@ -102,7 +103,7 @@ Performance optimization
 
 Enhanced UI animations
 
-🤝 Contributing
+🤝 **Contributing**
 
 Contributions are welcome.
 
@@ -118,11 +119,11 @@ Push the branch
 
 Open a Pull Request
 
-📄 License
+📄 **License**
 
 This project is licensed under the MIT License.
 
-👨‍💻 Author
+👨‍💻 **Author**
 
 Naveed Khan
 
