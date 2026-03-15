@@ -1,10 +1,10 @@
-**Tresk Website**
+> **Tresk Website**
 
 Official website for Tresk, developed under Analytical Measuring Systems.
 
 This repository contains the source code for the Tresk marketing website, including the landing page, product information pages, and UI components used to present the platform online.
 
-🌐 **Live Website**
+> 🌐 **Live Website**
 
 Visit the live website:
 
