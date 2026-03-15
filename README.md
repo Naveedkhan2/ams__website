@@ -1,55 +1,58 @@
-**Tresk Website**
+# Tresk Website
 
-Official website for Tresk, developed under Analytical Measuring Systems.
+Official website for **Tresk**, developed under **Analytical Measuring Systems (AMS)**.
 
 This repository contains the source code for the Tresk marketing website, including the landing page, product information pages, and UI components used to present the platform online.
 
-🌐 **Live Website**
+---
+
+## 🌐 Live Website
 
 Visit the live website:
 
 https://tresk.ai
 
-🏢 **About Tresk**
+---
 
-Tresk is a platform developed by Analytical Measuring Systems (AMS).
-The goal of Tresk is to provide modern digital solutions powered by advanced technologies to help users and businesses work more efficiently.
+## 🏢 About Tresk
 
-This repository contains the frontend website used to introduce the product, explain features, and allow users to explore the platform.
+Tresk is a platform developed by **Analytical Measuring Systems (AMS)**. The goal of Tresk is to provide modern digital solutions powered by advanced technologies to help users and businesses work more efficiently.
 
-🚀 **Features**
+This repository contains the **frontend website** used to introduce the product, explain features, and allow users to explore the platform.
 
-Modern landing page
 
-Responsive design for mobile and desktop
 
-Clean UI layout
+---
 
-Product and company information pages
+## 🚀 Features
 
-Fast static website performance
+- Modern landing page  
+- Responsive design for mobile and desktop  
+- Clean UI layout  
+- Product and company information pages  
+- Fast static website performance  
+- Optimized for user experience  
 
-Optimized for user experience
 
-🛠 **Tech Stack**
+---
 
-Frontend:
+## 🛠 Tech Stack
 
-HTML5
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
 
-CSS3
+### Tools
+- Git  
+- GitHub  
+- VS Code  
 
-JavaScript
+---
 
-Tools:
+## 📂 Project Structure
 
-Git
-
-GitHub
-
-VS Code
-
-📂 **Project Structure**
+```
 ams__website/
 │
 ├── index.html        # Main landing page
@@ -62,70 +65,76 @@ ams__website/
 ├── assets/           # Images, icons, and media
 │
 └── README.md
+```
 
-⚙️ **Installation**
+---
+
+## ⚙️ Installation
 
 Clone the repository:
 
+```bash
 git clone https://github.com/Naveedkhan2/ams__website.git
+```
 
 Navigate to the project directory:
 
+```bash
 cd ams__website
+```
 
 Run locally:
 
-Open index.html in your browser.
+Open **index.html** in your browser.
 
-💻 **Development**
+---
+
+## 💻 Development
 
 To modify the website:
 
-Edit HTML files for structure
+- Edit HTML files for structure  
+- Update CSS files for styling  
+- Add JavaScript functionality in the JS folder  
+- Test changes in a browser  
 
-Update CSS files for styling
+---
 
-Add JavaScript functionality in the JS folder
-
-Test changes in a browser
-
-📈 **Future Improvements**
+## 📈 Future Improvements
 
 Possible improvements include:
 
-Adding a CMS or backend integration
+- Adding a CMS or backend integration  
+- Improving SEO optimization  
+- Adding analytics integration  
+- Performance optimization  
+- Enhanced UI animations  
 
-Improving SEO optimization
+---
 
-Adding analytics integration
-
-Performance optimization
-
-Enhanced UI animations
-
-🤝 **Contributing**
+## 🤝 Contributing
 
 Contributions are welcome.
 
 Steps:
 
-Fork the repository
+1. Fork the repository  
+2. Create a feature branch  
+3. Commit your changes  
+4. Push the branch  
+5. Open a Pull Request  
 
-Create a feature branch
+---
 
-Commit your changes
+## 📄 License
 
-Push the branch
+This project is licensed under the **MIT License**.
 
-Open a Pull Request
+---
 
-📄 **License**
+## 👨‍💻 Author
 
-This project is licensed under the MIT License.
+**Naveed Khan**
 
-👨‍💻 **Author**
-
-Naveed Khan
-
-GitHub:
+GitHub:  
 https://github.com/Naveedkhan2
